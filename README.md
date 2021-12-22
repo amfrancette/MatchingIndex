@@ -9,6 +9,7 @@ To use the Matching Index, follow the following steps:
 4) Run R script setting parameters of the working directory, data filepath, year, group to be analyzed (MCDB or EE), and fraction of matching index dictated by mentee preferences (as opposed to mentor preferences)
 5) Use resulting data (saved to "res") to best pair mentors and mentees in conjunction with whatever extraneous  information that may inform the decision.
 
+It is key that additional survey question headers are appropriately added to the data/MenteePairingSurveyHeaders.txt file  if there are changes to the number or composition of survey questions. 
  
 See info/MatchingIndexDescription.docx for a breakdown of the matching index calcualtion
 
